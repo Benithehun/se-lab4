@@ -1,2 +1,3 @@
-GT4500,1,0,0,0       # Primary: 1 torpedo, 0% failure rate; Secondary: 0 torpedoes, 0% failure rate
-TORPEDO,SINGLE       # Attempt to fire in SINGLE mode when primary was last fired
+GT4500,2,0,0,0      # Primary: 2 torpedo, 0% failure rate; Secondary: 0 torpedoes, 0% failure rate
+TORPEDO,SINGLE      # Fire in SINGLE mode, should fire primary and set wasPrimaryFiredLast to true
+TORPEDO,SINGLE      # Fire again in SINGLE mode with wasPrimaryFiredLast as true, secondary is empty so primary fires

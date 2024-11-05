@@ -1,2 +1,3 @@
 SUCCESS              # Initialization success
+SUCCESS              # Fires Primary
 SUCCESS              # Secondary is empty; Primary fired successfully again
