@@ -1,0 +1,2 @@
+GT4500,1,0,0,0      # One torpedo in primary, secondary empty
+TORPEDO,ALL         # Should fire only from the primary store and return SUCCESS

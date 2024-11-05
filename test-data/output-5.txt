@@ -1,0 +1,2 @@
+SUCCESS
+SUCCESS     # Both primary and secondary stores fire successfully

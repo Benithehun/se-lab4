@@ -1,0 +1,3 @@
+SUCCESS
+SUCCESS     # First fire from the primary store succeeds
+SUCCESS     # Second fire from the secondary store succeeds

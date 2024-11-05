@@ -1,0 +1,2 @@
+GT4500,1,0,1,0      # One torpedo in each store, 0% failure rate
+TORPEDO,ALL         # Should fire both stores successfully

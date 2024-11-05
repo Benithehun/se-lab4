@@ -1,0 +1,2 @@
+GT4500,0,0,1,0      # Primary store empty, one torpedo in secondary, 0% failure rate
+TORPEDO,SINGLE      # Should fire from secondary store

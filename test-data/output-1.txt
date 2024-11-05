@@ -1,0 +1,2 @@
+SUCCESS
+SUCCESS     # Firing from the primary store succeeds

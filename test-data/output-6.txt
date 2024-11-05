@@ -1,0 +1,2 @@
+SUCCESS
+SUCCESS     # Only the primary store fires as the secondary is empty, still returns SUCCESS

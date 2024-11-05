@@ -1,0 +1,2 @@
+SUCCESS
+SUCCESS     # Firing from the secondary store succeeds as the primary store is empty

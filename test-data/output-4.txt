@@ -1,0 +1,2 @@
+SUCCESS
+FAIL     # Firing fails as both stores are empty
