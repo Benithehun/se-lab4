@@ -1,0 +1,2 @@
+GT4500,1,100,1,100    # Both stores: 1 torpedo, 100% failure rate
+TORPEDO,ALL           # Attempt to fire both stores

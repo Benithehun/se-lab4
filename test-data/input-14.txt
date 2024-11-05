@@ -1,0 +1,2 @@
+GT4500,1,0,0,0       # Primary: 1 torpedo, 0% failure rate; Secondary: 0 torpedoes, 0% failure rate
+TORPEDO,SINGLE       # Attempt to fire in SINGLE mode when primary was last fired

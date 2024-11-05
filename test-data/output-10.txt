@@ -1,0 +1,2 @@
+SUCCESS             # Initialization success
+SUCCESS             # Primary succedded, secondary failed

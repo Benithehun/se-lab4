@@ -1,0 +1,2 @@
+GT4500,1,100,1,0    # Primary store has 1 torpedo, 100% failure rate; Secondary has 1 torpedo, 0% failure rate
+TORPEDO,SINGLE      # Attempt to fire once; primary fails

@@ -1,0 +1,3 @@
+GT4500,1,0,1,100    # Primary has 1 torpedo, 0% failure rate; Secondary has 1 torpedo, 100% failure rate
+TORPEDO,SINGLE      # First fire; primary should succeed
+TORPEDO,SINGLE      # Second fire; secondary should fail

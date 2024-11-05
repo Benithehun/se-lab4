@@ -1,0 +1,2 @@
+SUCCESS             # Initialization success
+SUCCESS             # Primary firing failed but second shot

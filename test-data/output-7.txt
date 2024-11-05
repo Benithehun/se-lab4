@@ -1,0 +1,2 @@
+SUCCESS             # Initialization success
+FAIL             # Primary store firing failed; no attempt to fire secondary
